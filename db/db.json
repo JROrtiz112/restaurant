@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "anil@test.com",
+      "name": "anil sidhu",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "email": "tony@test.com",
+      "password": "tony@123",
+      "name": "Tony",
+      "id": 2
+    },
+    {
+      "email": "bruce@test.com",
+      "password": "bruce@123",
+      "name": "Bruce",
+      "id": 3
+    },
+    {
+      "email": "teo@test.com",
+      "password": "teo@123",
+      "name": "teo",
+      "id": 4
+    },
+    {
+      "email": "and@test.com",
+      "password": "and@123",
+      "name": "and",
+      "id": 5
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 2,
+      "name": "Dominos",
+      "number": 333333,
+      "address": "Gurgaon sector 30"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "number": 444444,
+      "address": "Delgi CP"
+    },
+    {
+      "name": "Campero",
+      "address": "dsasd",
+      "number": "22222222",
+      "id": 4
+    },
+    {
+      "name": "dsasd",
+      "address": "Campero",
+      "number": "111111",
+      "id": 5
+    },
+    {
+      "name": "Campero",
+      "address": "Campero",
+      "number": "22222222",
+      "id": 6
+    },
+    {
+      "name": "Campero",
+      "address": "dsasd",
+      "number": "22222222",
+      "id": 7
+    }
+  ]
+}
